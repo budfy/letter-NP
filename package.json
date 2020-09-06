@@ -1,0 +1,27 @@
+{
+  "name": "letters-maker",
+  "version": "1.0.0",
+  "description": "Gulp for letters",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-inline-css": "^3.5.0",
+    "inline-css": "^2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budfy/letter-NP.git"
+  },
+  "author": "Roman Serdyuk aka budfy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budfy/letter-NP/issues"
+  },
+  "homepage": "https://github.com/budfy/letter-NP#readme"
+}
